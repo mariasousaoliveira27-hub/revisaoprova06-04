@@ -1,0 +1,19 @@
+  *{
+    margin: 0;
+    padding: 0;
+}
+
+    .cabecalho {
+        background-color: blueviolet;
+    }
+
+    .navegacao {
+        background-color: deeppink;
+    }
+
+    .secao {
+        background-color: aquamarine;
+    }
+    .rodape {
+        background-color: black;
+    }
